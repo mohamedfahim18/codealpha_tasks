@@ -1,47 +1,94 @@
 # CodeAlpha Cyber Security Internship Tasks
 
-## Intern Details
+## Name
 
-**Name:** Mohamed Fahim U
+Mohamed Fahim U
 
-**Registration Number:** CA/DF1/115819
+## Registration Number
 
-**Domain:** Cyber Security
+CA/DF1/115819
 
-## Tasks Completed
+## Domain
 
-### Task 1 - Basic Network Sniffer
+Cyber Security
 
-A Python-based network packet sniffer developed using Scapy. The program captures packets and displays source IP, destination IP, protocol information, and network traffic details.
+## Overview
 
-### Task 2 - Phishing Awareness Training
+This repository contains the tasks completed as part of the CodeAlpha Cyber Security Internship Program. The projects focus on network monitoring, cybersecurity awareness, and secure coding practices.
 
-A phishing awareness project consisting of:
+## Task 1 - Basic Network Sniffer
 
-* PowerPoint presentation on phishing attacks
-* Interactive Python quiz for awareness training
+A Python-based network packet sniffer developed using Scapy.
 
-The project explains phishing techniques, fake websites, social engineering attacks, and prevention methods.
+### Features
 
-### Task 3 - Secure Coding Review
+* Captures network packets
+* Displays source and destination IP addresses
+* Identifies TCP, UDP, and ICMP protocols
+* Shows network traffic information
 
-A security review of a Python login application. The project identifies security vulnerabilities and provides recommendations for secure coding practices.
-
-## Technologies Used
+### Technologies Used
 
 * Python
 * Scapy
-* Hashlib
-* GitHub
+
+---
+
+## Task 2 - Phishing Awareness Training
+
+This task consists of:
+
+1. Phishing Awareness Presentation
+2. Interactive Phishing Quiz
+
+### Topics Covered
+
+* Phishing attacks
+* Fake websites
+* Social engineering
+* Prevention techniques
+* Cybersecurity best practices
+
+### Technologies Used
+
+* Microsoft PowerPoint
+* Python
+
+---
+
+## Task 3 - Secure Coding Review
+
+A security assessment of a simple Python login application.
+
+### Review Method
+
+Manual code inspection
+
+### Vulnerabilities Identified
+
+* Hardcoded credentials
+* Plain-text password verification
+* No brute-force protection
+* No multi-factor authentication
+
+### Recommendations
+
+* Password hashing
+* Secure credential storage
+* Account lockout mechanisms
+* Multi-factor authentication
+
+---
 
 ## Learning Outcomes
 
-* Network traffic analysis
-* Cybersecurity awareness
-* Secure coding principles
-* Vulnerability identification and remediation
+* Understanding network traffic analysis
+* Recognizing phishing attacks
+* Identifying security vulnerabilities
+* Applying secure coding principles
 
 ## Author
 
 Mohamed Fahim U
+
 CodeAlpha Cyber Security Intern
